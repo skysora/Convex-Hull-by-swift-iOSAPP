@@ -15,6 +15,7 @@
 		9700BC452477B5840086AA76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9700BC432477B5840086AA76 /* LaunchScreen.storyboard */; };
 		9700BC502477B5840086AA76 /* Alg_hw2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9700BC4F2477B5840086AA76 /* Alg_hw2Tests.swift */; };
 		9700BC5B2477B5840086AA76 /* Alg_hw2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9700BC5A2477B5840086AA76 /* Alg_hw2UITests.swift */; };
+		9700BC692477C7A80086AA76 /* Point.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9700BC682477C7A80086AA76 /* Point.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9700BC562477B5840086AA76 /* Alg_hw2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Alg_hw2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9700BC5A2477B5840086AA76 /* Alg_hw2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alg_hw2UITests.swift; sourceTree = "<group>"; };
 		9700BC5C2477B5840086AA76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9700BC682477C7A80086AA76 /* Point.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Point.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				9700BC412477B5840086AA76 /* Assets.xcassets */,
 				9700BC432477B5840086AA76 /* LaunchScreen.storyboard */,
 				9700BC462477B5840086AA76 /* Info.plist */,
+				9700BC682477C7A80086AA76 /* Point.swift */,
 			);
 			path = Alg_hw2;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9700BC692477C7A80086AA76 /* Point.swift in Sources */,
 				9700BC3D2477B5810086AA76 /* ViewController.swift in Sources */,
 				9700BC392477B5810086AA76 /* AppDelegate.swift in Sources */,
 				9700BC3B2477B5810086AA76 /* SceneDelegate.swift in Sources */,
